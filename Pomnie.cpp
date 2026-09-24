@@ -3,9 +3,7 @@
 using namespace::std;
 int main() {
 
-    cout << "How do I get out?" << endl;
-
-    cout << "I don't want a sun burn" << endl;
+    cout << "It's the fish hat again!!!" << endl;
 
     return 0;
     
